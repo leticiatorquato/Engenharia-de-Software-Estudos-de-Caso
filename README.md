@@ -31,7 +31,7 @@ Principais artefatos desenvolvidos:
 
 ---
 
-### T4 English
+### Site Institucional de Curso de Inglês
 
 Projeto de Engenharia de Requisitos desenvolvido para um curso de inglês, com foco na análise do negócio e definição dos requisitos de uma plataforma web.
 
