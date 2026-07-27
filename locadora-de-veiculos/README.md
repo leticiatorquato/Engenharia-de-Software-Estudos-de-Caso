@@ -49,3 +49,9 @@ O documento contempla os seguintes artefatos:
 - Prototipação de interfaces
 
 ---
+
+## Documento
+
+A documentação completa do projeto está disponível em:
+
+[📄 Implementação de Artefatos de Engenharia de Software Baseado em Estudo de Caso - Locadora de veículos](./locadora-de-veiculos.pdf) 
